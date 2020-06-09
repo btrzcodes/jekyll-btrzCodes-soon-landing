@@ -27,6 +27,8 @@ markdown: kramdown
 theme:
 plugins:
   - jekyll-feed
+  - jekyll-environment-variables
+  - s3_website
 
 include:
   - _pages
