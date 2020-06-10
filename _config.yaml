@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: BtrzCodes
-email: btrz.developer@gmail.com
+email: btrz.developer
 #phone: 0123456789
 description: Maybe-not-that-Junior Backend Developer | Node + SysOps 
 #baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://btrz.dev" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://btrz.dev"
 twitter_username: btrz_codes
 github_username: btrzcodes
 

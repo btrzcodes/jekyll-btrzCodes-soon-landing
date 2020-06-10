@@ -1,6 +1,3 @@
-head {
-}
-
 body {
 	border-top: 6px solid #000;
 	color: transparent;
@@ -42,7 +39,7 @@ body {
 	text-align: center;
 	position: relative;
 	padding: 25px;
-	background: #ffffffb5;
+	background: #ffffff;
 	/* background: transparent url(img/#black50.png);
 	background: rgba(255, 255, 255, 0.47) none;
 	-moz-border-radius: 100%;
@@ -74,14 +71,14 @@ h1 {
 	}
 
 h2 {
-	margin: 0;
-	margin-top: 48px;
 	font-size: 24px;
 	line-height: 1.5;
 	font-weight: 600;
 	letter-spacing: 0.6.em;
 	color: #ff6b71;
 	background-color: #2645e0d6;
+	transform: rotate(-3deg);
+    margin: 48px;
 	}
 
 h3 {
